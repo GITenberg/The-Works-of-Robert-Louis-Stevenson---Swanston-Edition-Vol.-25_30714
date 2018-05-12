@@ -1,0 +1,46 @@
+_repo: The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-25_30714
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  editor:
+    agent_name: Colvin, Sidney
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '34550'
+    url: http://www.gutenberg.org/2009/agents/34550
+description: ''
+gutenberg_issued: '2009-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcsh 'Authors, Scottish -- 19th century -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Correspondence'
+tableOfContents: The letters of Robert Louis Stevenson, parts XI-XIV.
+title: The Works of Robert Louis Stevenson - Swanston Edition, Vol. 25
+url: http://www.gutenberg.org/ebooks/30714
